@@ -1,0 +1,12 @@
+.text{
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    border-style: dashed;
+}
+
+.buttons{
+    display: flex;
+    padding: 30px;
+    border-style: dashed;
+}
